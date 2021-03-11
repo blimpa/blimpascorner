@@ -10,7 +10,6 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
-tags: Greenlight Polls
 ---
 # Poll: Community Greenlight Poll - SB-BFDC (BeachFront Digital Coin) - March 15, 2021
 
