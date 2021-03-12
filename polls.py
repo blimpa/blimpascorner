@@ -35,9 +35,6 @@ LIST = [
     ["aAAVE",
      "aAAVE",
      "https://forum.makerdao.com/t/aaave-mip6-collateral-onboarding-application-for-aaave/6588"],
-    ["sUSD",
-     "Synthetix USD",
-     "https://forum.makerdao.com/t/susd-mip6-collateral-onboarding-application/6555"],
     ["CurveLP-cDAI-cUSDC",
      "Compound Curve LP Token",
      "https://forum.makerdao.com/t/curvelp-cdai-cusdc-mip6-collateral-onboarding-application/6682"]
