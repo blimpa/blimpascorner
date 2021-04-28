@@ -1,3 +1,3 @@
 # Hello, world!
 
-<img src="./Maker.svg">
+<img src="https://github.com/blimpa/blimpascorner/blob/main/Maker.svg">
