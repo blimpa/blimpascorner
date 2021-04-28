@@ -1,3 +1,3 @@
 # Hello, world!
 
-![alt](/maker.svg)
+![alt](maker.svg)
