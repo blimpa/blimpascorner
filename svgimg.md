@@ -1,3 +1,3 @@
 # Hello, world!
 
-<img src="Maker.svg" />
+<img src="./Maker.svg">
