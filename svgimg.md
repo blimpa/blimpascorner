@@ -1,3 +1,3 @@
 # Hello, world!
 
-![Alt](Maker.svg)
+![Alt](https://github.com/blimpa/blimpascorner/blob/main/Maker.svg)
