@@ -1,3 +1,3 @@
 # Hello, world!
 
-![Alt](Maker.svg)
+<img src="Maker.svg" />
