@@ -1,3 +1,3 @@
 # Hello, world!
 
-<img src=".Maker.svg">
+![](https://englishcomposition.org/wp-content/uploads/2017/07/Exclamation-Point-300x167.png)
