@@ -1,6 +1,6 @@
 # MIP77: Jackpot Module for Greater Happiness
 
-> ![](about.png)
+> ![](AboutThisMIP.png)
 >
 > Nulla non felis et turpis pharetra bibendum eu quis dolor. Fusce finibus quam velit, in tincidunt lorem fringilla ac.
 > 
