@@ -1,5 +1,5 @@
 name: Some Action
-on: [pull_request]
+on: [push]
 
 jobs:
   job1:
