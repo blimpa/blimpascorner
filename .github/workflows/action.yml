@@ -1,5 +1,5 @@
 name: Some Action
-on: [push]
+on: [pull]
 
 jobs:
   job1:
